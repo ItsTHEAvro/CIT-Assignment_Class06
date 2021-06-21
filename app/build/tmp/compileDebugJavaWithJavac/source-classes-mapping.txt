@@ -1,0 +1,4 @@
+com/citscholarship/citclass06/MainActivity.java
+ com.citscholarship.citclass06.MainActivity
+com/citscholarship/citclass06/BuildConfig.java
+ com.citscholarship.citclass06.BuildConfig
